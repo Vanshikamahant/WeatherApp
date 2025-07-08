@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌦️ React Native Weather App! 📱🎉
 
 I'm thrilled to announce the launch of my latest project - a React Native Weather App built entirely with TypeScript! 🚀
@@ -51,3 +52,6 @@ Give a ⭐️ if you like this project!
 ### 🎓 Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+=======
+# WeatherApp
+>>>>>>> 0059e09a9447edce42b4b1cbdb32ee1c8b24895d
